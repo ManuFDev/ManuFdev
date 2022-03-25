@@ -1,6 +1,6 @@
 ##  Hello :wave:
 
-My name is Emanuel, I'm from Argentina and I-m a Front-End Dev.
+My name is Emanuel, I'm from Argentina and I'm a Front-End Dev.
 
 
 
