@@ -13,6 +13,7 @@ My name is Emanuel, I'm from Argentina and I'm a Front-End Dev.
 - Node.js   
 - SASS  
 - Git   
+- React JS
 
 ## Contact
 
