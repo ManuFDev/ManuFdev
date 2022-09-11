@@ -8,12 +8,12 @@ My name is Emanuel, I'm from Argentina and I'm a Front-End Dev.
 
 - HTML5  
 - CSS3
-- JavaScript  
-- Bootstrap  
-- Node.js   
-- SASS  
-- Git   
+- JavaScript
 - React JS
+- Node.js
+- SASS 
+- Bootstrap  
+- Git   
 
 ## Contact
 
